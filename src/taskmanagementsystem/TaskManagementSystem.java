@@ -1,5 +1,5 @@
 package taskmanagementsystem;
-
+// Entry point of the Task Management System application
 /**
  * Main class to run the Task Management System.
  * 
